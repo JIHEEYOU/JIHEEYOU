@@ -1,10 +1,11 @@
 ## Hi there 👋 This is Jihee's Animal Farm~!~!
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/JIHEEYOU?pet-id=642212583922701813"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/JIHEEYOU"
+  width="600"
+  height="300"
+/>
+</a>
 </a>
 <!--
 **JIHEEYOU/JIHEEYOU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
