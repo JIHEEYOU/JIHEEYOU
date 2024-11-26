@@ -1,4 +1,4 @@
-## Hi there 👋 This is Jihee's Animal Farm~!~!
+## This is Jihee's Animal Farm!!👩🏻‍🌾
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/JIHEEYOU"
